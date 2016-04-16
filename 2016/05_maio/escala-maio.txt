@@ -1,0 +1,198 @@
+*Poderá haver troca de palestrantes/temas sem aviso prévio.
+<table border="0" cellspacing="0" cellpadding="0" class="escala-palestras">
+<tbody>
+    <tr>
+        <th>DATA</th>
+        <th><span style="padding-left: 10px;">DIA</span></th>
+        <th>HORA</th>
+        <th><span style="padding-left: 10px;">TEMA</span></th>
+        <th>EXPOSITOR</th>
+    </tr>
+    <tr class="domingo">
+        <td>01/05</td>
+        <td>DOMINGO</td>
+        <td>08:30</td>
+        <td>SABEDORIA DO AMOR</td>
+        <td>ROSE NASCIMENTO</td>
+    </tr>
+     <tr>
+        <td rowspan="2">02/08</td>
+        <td rowspan="2">SEGUNDA</td>
+        <td class="segunda"><b>18:15</b></td>
+        <td>O CRISTO CONSOLADOR</td>
+        <td>ADILSON ALEXANDRE SIMAS</td>
+    </tr>
+    <tr>
+        <td class="segunda"><b>20:00</b></td>
+        <td>O CRISTO CONSOLADOR</td>
+        <td>ADILSON ALEXANDRE SIMAS</td>
+    </tr>
+    <tr>
+        <td>03/05</td>
+        <td>TERÇA</td>
+        <td>15:30</td>
+        <td>MEDIUNIDADE E ORIENTAÇÃO EVANGÉLICA</td>
+        <td>RO PACHECO</td>
+    </tr>
+    <tr>
+        <td>05/05</td>
+        <td>QUINTA</td>
+        <td>15:30</td>
+        <td>A FAMÍLIA E A SOCIEDADE</td>
+        <td>IRACI CHIARELLI</td>
+    </tr>
+    <tr>
+        <td>07/05</td>
+        <td>SÁBADO</td>
+        <td>18:00</td>
+        <td>JESUS E AS MULHERES</td>
+        <td>NATALIA DE ALMEIDA</td>
+    </tr>
+    <tr class="domingo">
+        <td>08/05</td>
+        <td>DOMINGO</td>
+        <td>08:30</td>
+        <td>AMOR FRATERNO</td>
+        <td>PAULO HENRIQUE CHIESORIN</td>
+    </tr>
+     <tr>
+        <td rowspan="2">09/08</td>
+        <td rowspan="2">SEGUNDA</td>
+        <td class="segunda"><b>18:15</b></td>
+        <td>PERTURBAÇÕES ESPIRITUAIS</td>
+        <td>ESTHER FREGOSSI</td>
+    </tr>
+    <tr>
+        <td class="segunda"><b>20:00</b></td>
+        <td>PERTURBAÇÕES ESPIRITUAIS</td>
+        <td>ESTHER FREGOSSI</td>
+    </tr>
+    <tr>
+        <td>10/05</td>
+        <td>TERÇA</td>
+        <td>15:30</td>
+        <td>PROGRESSÃO DOS ESPÍRITOS</td>
+        <td>ANDRIETTA VIVIANI</td>
+    </tr>
+    <tr>
+        <td>12/05</td>
+        <td>QUINTA</td>
+        <td>15:30</td>
+        <td>PERDÃO E AUTOPERDÃO</td>
+        <td>NILSON BORGES</td>
+    </tr>
+    <tr>
+        <td>14/05</td>
+        <td>SÁBADO</td>
+        <td>18:00</td>
+        <td>ANTE AOS FLAGELOS DESTRUIDORES</td>
+        <td>JÉTRO BARBOZA DE OLIVEIRA</td>
+    </tr>
+    <tr class="domingo">
+        <td>15/05</td>
+        <td>DOMINGO</td>
+        <td>08:30</td>
+        <td>O CEGO DE BETSAIDA</td>
+        <td>AIRTON DORNELLES </td>
+    </tr>
+     <tr>
+        <td rowspan="2">16/08</td>
+        <td rowspan="2">SEGUNDA</td>
+        <td class="segunda"><b>18:15</b></td>
+        <td>TRANSIÇÃO DE VIDA</td>
+        <td>NILSA PEREIRA</td>
+    </tr>
+    <tr>
+        <td class="segunda"><b>20:00</b></td>
+        <td>TRANSIÇÃO DE VIDA</td>
+        <td>NILSA PEREIRA</td>
+    </tr>
+    <tr>
+        <td>17/05</td>
+        <td>TERÇA</td>
+        <td>15:30</td>
+        <td>PROBLEMAS FAMILIARES</td>
+        <td>IZOLEMA ATOLINI</td>
+    </tr>
+    <tr>
+        <td>19/05</td>
+        <td>QUINTA</td>
+        <td>15:30</td>
+        <td>A AÇÃO DO PENSAMENTO</td>
+        <td>ROBERTO TAPADA</td>
+    </tr>
+     <tr>
+        <td>21/05</td>
+        <td>SÁBADO</td>
+        <td>18:00</td>
+        <td>ESCALA DOS ESPÍRITOS E DOS MUNDOS</td>
+        <td>SIDNEY LOURENÇO</td>
+    </tr>
+    <tr class="domingo">
+        <td>22/05</td>
+        <td>DOMINGO</td>
+        <td>08:30</td>
+        <td>ESCALA DOS ESPÍRITOS E DOS MUNDOS</td>
+        <td>SIDNEY LOURENÇO</td>
+    </tr>
+     <tr>
+        <td rowspan="2">23/08</td>
+        <td rowspan="2">SEGUNDA</td>
+        <td class="segunda"><b>18:15</b></td>
+        <td>BEM AVENTURADOS OS AFLITOS</td>
+        <td>LORENI O NETO</td>
+    </tr>
+    <tr>
+        <td class="segunda"><b>20:00</b></td>
+        <td>BEM AVENTURADOS OS AFLITOS</td>
+        <td>LORENI O NETO</td>
+    </tr>
+    <tr>
+        <td>24/05</td>
+        <td>TERÇA</td>
+        <td>15:30</td>
+        <td>O HOMEM DE BEM</td>
+        <td>NILSA PEREIRA</td>
+    </tr>
+    <tr>
+        <td>26/05</td>
+        <td>QUINTA</td>
+        <td>15:30</td>
+        <td>O CRISTO CONSOLADOR</td>
+        <td>ADILSON ALEXANDRE SIMAS</td>
+    </tr>
+    <tr>
+        <td>28/05</td>
+        <td>SÁBADO</td>
+        <td>18:00</td>
+        <td>RESILIÊNCIA</td>
+        <td>CARMEN LÚCIA W. MARTINS</td>
+    </tr>
+    <tr class="domingo">
+        <td>29/05</td>
+        <td>DOMINGO</td>
+        <td>08:30</td>
+        <td>TUDO PASSA- QUANDO A MORTE DE UM FILHO NÃO É O FIM DO MUNDO</td>
+        <td>SILVIO LUIZ DE OLIVEIRA</td>
+    </tr>
+    <tr>
+        <td rowspan="2">30/08</td>
+        <td rowspan="2">SEGUNDA</td>
+        <td class="segunda"><b>18:15</b></td>
+        <td>RELACIONAMENTO CONJUGAL - E VIVERAM FELIZES PARA SEMPRE</td>
+        <td>CLAUDIO DE SOUZA</td>
+    </tr>
+    <tr>
+        <td class="segunda"><b>20:00</b></td>
+        <td>RELACIONAMENTO CONJUGAL - E VIVERAM FELIZES PARA SEMPRE</td>
+        <td>CLAUDIO DE SOUZA</td>
+    </tr>
+    <tr>
+        <td>31/05</td>
+        <td>TERÇA</td>
+        <td>15:30</td>
+        <td>NECESSIDADE DA VIDA SOCIAL</td>
+        <td>ROBERTO MICHELIN</td>
+    </tr>
+</tbody>
+</table>
