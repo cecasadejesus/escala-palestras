@@ -9,10 +9,11 @@ const pagination = document.querySelector('.nav-single');
 author.remove()
 pagination.remove()
 
-
 const siteArticle = document.querySelector('.site-content article');
+siteArticle.style.borderBottom = "none";
 siteArticle.style.marginBottom = "0";
-siteArticle.style.borderBotton = "none";
+siteArticle.style.paddingBottom = "0";
+
 
 const pageTopBg = document.querySelector('.post-template-default');
 pageTopBg.style.background = "none";
