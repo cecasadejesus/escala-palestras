@@ -28,6 +28,39 @@ const erasePseudoElements = `<style>
 .site:after {
 	display: none;
 }
+
+body.custom-font-enabled {
+    font-family: Georgia, serif;
+    color: black;
+}
+
+.entry-content table, .comment-content table,
+.entry-content th, .comment-content th {
+    color: black;
+}
+
+.entry-content table.escala-palestras {
+    font-size: 1.2rem;
+}
+
+.escala-palestras td {
+    vertical-align: top;
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+.escala-palestras th:nth-child(2) {
+    width: 100px;
+}
+
+.escala-palestras span.chip {
+    display: inline-block;
+    line-height: 1.4;
+}
+
+.escala-palestras td{
+	line-height: 1.4;
+}
 </style>`;
 
 document.body.insertAdjacentHTML('beforeend', erasePseudoElements);
