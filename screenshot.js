@@ -49,7 +49,15 @@ body.custom-font-enabled {
     line-height: 1.4;
 }
 
+.escala-palestras th:first-child {
+        width: 100px;
+}
+
 .escala-palestras th:nth-child(2) {
+    width: 120px;
+}
+
+.escala-palestras th:nth-child(3) {
     width: 100px;
 }
 
