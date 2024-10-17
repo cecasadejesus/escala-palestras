@@ -50,7 +50,7 @@ body.custom-font-enabled {
 }
 
 .escala-palestras th:first-child {
-        width: 100px;
+    width: 100px;
 }
 
 .escala-palestras th:nth-child(2) {
